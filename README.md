@@ -3,6 +3,7 @@
 
 An ML project to alert people suffering with dermatillomania when they begin picking at their hair or skin, by tracking their hand movements.
 
+Images of functional bad habit alerting software
 
 <img width="1322" alt="Screenshot 2024-12-31 at 4 50 22 AM" src="https://github.com/user-attachments/assets/57229968-41c6-4a65-a653-54ba2168fa6a" />
 <img width="869" alt="Screenshot 2024-12-31 at 4 51 57 AM" src="https://github.com/user-attachments/assets/46227042-0c67-42d5-b045-2e3c260494c9" />
